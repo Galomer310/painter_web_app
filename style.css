@@ -35,8 +35,8 @@ body {
 #canvas {
     margin-left: 120px;
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(55px, 1fr));
-    grid-gap: 1px;
+    grid-template-columns: repeat(auto-fill, minmax(25px, 1fr));
+    grid-gap: 2px;
     flex-grow: 1;
 }
 

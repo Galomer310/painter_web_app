@@ -11,7 +11,7 @@ colorBar.forEach(colorOption => {
     });
 });
 
-for (let i = 0; i < 500; i++) { 
+for (let i = 0; i < 1000; i++) { 
     const gridDiv = document.createElement('div');
     gridDiv.classList.add('grid-div');
     canvas.appendChild(gridDiv);
